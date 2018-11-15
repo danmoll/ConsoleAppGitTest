@@ -13,6 +13,7 @@ namespace ConsoleAppGitTest
             Console.WriteLine("Hej verden!");
             Console.WriteLine("Mit navn er <navn>");
             Console.WriteLine("Nej");
+            Console.WriteLine("Nej");
         }
     }
 }
