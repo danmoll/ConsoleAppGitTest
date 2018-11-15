@@ -11,6 +11,7 @@ namespace ConsoleAppGitTest
         static void Main(string[] args)
         {
             Console.WriteLine("Hej verden!");
+            Console.WriteLine("Mit navn er <navn>");
         }
     }
 }
